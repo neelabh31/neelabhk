@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>neelabh kulshreshtha</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">  
+    </head>
+    <body>
+        <div style="text-align: center;">
+            <h1>neelabh kulshreshtha</h1>
+            <a href="mailto:neelabh31@gmail.com">neelabh31@gmail.com </a>
+            <br>
+            <h2>Skills</h2>
+            HTML, C language, Basic Python
+            <br>
+            2. Written a Research Paper on "robotics and expert system"
+            <h2>About Me</h2>
+            I am a student at Manav Rachna International Institute of Research and Studies.
+            <br>
+            Currently learning Python and machine learning.
+            <br>
+        </div>
+    </body>
+</html>
